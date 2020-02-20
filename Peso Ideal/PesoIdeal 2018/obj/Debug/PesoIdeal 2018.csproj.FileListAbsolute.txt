@@ -1,0 +1,79 @@
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe.config
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmPrograma.resources
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.Properties.Resources.resources
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.GenerateResource.cache
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\source\repos\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csprojAssemblyReference.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe.config
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.Properties.Resources.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.GenerateResource.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\SplashScreen.dll
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CopyComplete
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmSplash.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmProgramaPesoIdeal.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Projeto Form\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csprojAssemblyReference.cache
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe.config
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.pdb
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\SplashScreen.dll
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csprojAssemblyReference.cache
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmProgramaPesoIdeal.resources
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmSplash.resources
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.Properties.Resources.resources
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.GenerateResource.cache
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CopyComplete
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.exe
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.pdb
+C:\Users\Antonio\Google Drive\Peso Ideal\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmAjuda.resources
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmAjuda.resources
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmProgramaPesoIdeal.resources
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmSplash.resources
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.Properties.Resources.resources
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.GenerateResource.cache
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe.config
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\bin\Debug\SplashScreen.dll
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CopyComplete
+C:\Users\Vanderson\Desktop\PesoIdeal 2018\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csprojAssemblyReference.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe.config
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\bin\Debug\SplashScreen.dll
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csprojAssemblyReference.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmAjuda.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmProgramaPesoIdeal.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmSplash.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.Properties.Resources.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.GenerateResource.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CopyComplete
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - atualizado\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe.config
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\bin\Debug\PesoIdeal 2018.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\bin\Debug\SplashScreen.dll
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csprojAssemblyReference.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmAjuda.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmProgramaPesoIdeal.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.frmSplash.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal_2018.Properties.Resources.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.GenerateResource.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.csproj.CopyComplete
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\Interação Humano-Computador\Trabalhos\Trabalho 02\Peso Ideal - Intervenção\PesoIdeal 2018\obj\Debug\PesoIdeal 2018.pdb
